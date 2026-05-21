@@ -1,1 +1,1 @@
-
+En estos archivos se condensan las simulaciones realixzadas para el sistema de agentes definido para el tratamiento del dilema del pelotón por medio de un prisoner dilema. La elaboración del código fue realizada en parte con ayuda de agentes con IA (Copilot). La lógica de la clase cyclists que se puede hallar en el archivo cyclists.py fue realizado de forma completamente propia.
